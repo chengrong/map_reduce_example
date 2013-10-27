@@ -1,4 +1,4 @@
 map_reduce_example
 ==================
 
-a simple map reduce example
+This is a simple map reduce example
